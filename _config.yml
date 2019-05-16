@@ -33,12 +33,12 @@ features                                  :
 
   - title                                 : Singleplayer
     description                           : Go it alone and test your skills in Singleplayer!
-    fontawesome_icon_name                 : hand_scissors
+    fontawesome_icon_name                 : magic
   
 
   - title                                 : Multiplayer
     description                           : Play with a friend who is using a nearby device. Simply host a game and wait for him to join.
-    fontawesome_icon_name                 : hand_paper
+    fontawesome_icon_name                 : magic
 
 
 
